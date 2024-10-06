@@ -1,5 +1,9 @@
 # Time-Independent Schrödinger Equation
+
+![solutions](https://raw.githubusercontent.com/EliasSev/numerical-Schrodinger/refs/heads/main/example_solutions.png)
+
 In this small blog (found in the Jupyter notebook and pdf), I solve the time-independent Schrödinger eqution numerically in both one and two dimensions. 
+
 The Schrödinger equation describes wave functions in quantum dynamics, and in the 1-dimensional time-independent case it is
 
 $$
@@ -13,6 +17,8 @@ $$
 $$
 
 Here, $\psi$ is the wave function which we want to solve for. $V$ is the potential that describes the enviroment, $E$ is the energy of the system,
-$m$ is the mass and $\hslash$ is the reduced Planck constant.
+$m$ is the mass and $\hslash$ is the reduced Planck constant. The four images above are examples of possible solutions.
 
 In the Jupyter notebook (or pdf), I explain how to obtain a linear system by using finite differences, and then look at which libraries are best suited to solving these large linear systems.
+
+
