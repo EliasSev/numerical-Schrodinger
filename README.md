@@ -1,6 +1,6 @@
 # Time-Independent Schrödinger Equation
 
-![solutions](https://raw.githubusercontent.com/EliasSev/numerical-Schrodinger/refs/heads/main/example_solutions.png)
+<img src="https://raw.githubusercontent.com/EliasSev/numerical-Schrodinger/refs/heads/main/example_solutions.png" alt="solutions" width="400"/>
 
 In this small blog (found in the Jupyter notebook and pdf), I solve the time-independent Schrödinger eqution numerically in both one and two dimensions. 
 
