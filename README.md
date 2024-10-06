@@ -15,4 +15,4 @@ $$
 Here, $\psi$ is the wave function which we want to solve for. $V$ is the potential that describes the enviroment, $E$ is the energy of the system,
 $m$ is the mass and $\hslash$ is the reduced Planck constant.
 
-In the Jupyter notebook, I explore how using the finite difference method can be used to approximate the solution $\psi$ on a discrete space grid
+In the Jupyter notebook (or pdf), I explain how to obtain a linear system by using finite differences, and then look at which libraries are best suited to solving these large linear systems.
